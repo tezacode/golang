@@ -41,8 +41,7 @@ Golang’ni 0 dan chuqur darajagacha o‘rganganimda bilganlarimni boshqalar bil
 
 - Go compiler  
 - VS Code / Neovim  
-- GitHub Wiki  
-- GitBook (dokumentatsiya ko‘rinishi uchun)
+- GitHub Wiki
 
 ---
 
