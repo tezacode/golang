@@ -1,4 +1,4 @@
-# Golang Wiki — Bahromning Go o‘quv konspekti
+# Golang Wiki — o‘quv konspekti
 
 Bu repository Golang’ni o‘rganish jarayonim davomida yozib boriladigan shaxsiy konspektlar, misollar, tushunchalar va amaliy kodlardan iborat.
 
@@ -26,9 +26,8 @@ Wiki shaklidagi to‘liq darslar → **Wiki** bo‘limida joylashgan.
 - Concurrency Patterns  
 
 **Wiki’ni ochish:**  
-➡️ https://github.com/USERNAME/REPO/wiki
+➡️ https://github.com/tezacode/golang/wiki
 
-(Repo ochilgandan keyin bu link avtoishlaydi)
 
 ---
 
